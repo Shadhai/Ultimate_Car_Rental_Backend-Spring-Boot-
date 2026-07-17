@@ -637,7 +637,7 @@ open target/site/jacoco/index.html
 # 1. Fork the repository on GitHub
 
 # 2. Clone your fork
-git clone https://github.com/<your-username>/Ultimate_Car_Rental_Backend-Spring-Boot-.git
+git clone https://github.com/<Shadhai>/Ultimate_Car_Rental_Backend-Spring-Boot-.git
 
 # 3. Create a feature branch
 git checkout -b feature/your-feature-name
